@@ -11339,6 +11339,10 @@ JalfResi: JalfResi!users.noreply.github.com
 	Stickyeyes until 2018-05-01
 	Infinity Works Consulting Ltd. from 2018-05-01 until 2021-11-01
 	Accenture UK from 2021-11-01
+jamieklassen: michigan.j.frog!gmail.com, jklassen!vmware.com
+	Independent until 2016-09-06
+	Pivotal from 2016-09-06 to 2020-04-06
+	VMware Inc. from 2020-04-06
 JameelB: jbriones!redhat.com
 	Independent until 2015-02-01
 	SAP from 2015-02-01 until 2015-08-01
